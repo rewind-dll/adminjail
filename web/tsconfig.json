@@ -1,0 +1,13 @@
+{
+  "include": [
+    "./**/*"
+  ],
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "lib": [ "dom", "dom.iterable", "es2015", "es2015.promise" ],
+    "jsx": "react-jsx",
+    "skipLibCheck": true,
+    "target": "es2015"
+  }
+}
