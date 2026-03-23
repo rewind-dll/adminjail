@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'BLDR'
+author 'rewind.dll'
 description 'Admin Jail System with Persistent Storage'
-version '1.0.0'
+version '1.2.0'
 
 shared_scripts {
     '@es_extended/imports.lua',
